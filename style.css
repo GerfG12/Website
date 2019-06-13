@@ -1,4 +1,14 @@
-body{background-color:grey;}
+body{background-color:lightgrey;}
 h1{color:darkred;}
-h1{font-family: "Comic Sans MS", cursive, sans-serif;}
+h1{font-family: "Comic Sans MS",
+cursive, sans-serif;}
 body{font-family:'raleway',georgia,serif;}
+h1{font-weight:lighter;}
+h2{font-weight:500;}
+h2{font-style:italic;}
+p{line-height:2;}
+h1{text-align:center;}
+header {color: blue;font-family:Helvetica;}
+h2{color: red;}
+*{font-size:20px;}
+h1:hover{text-decoration:underline;}
